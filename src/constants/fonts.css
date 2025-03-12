@@ -1,0 +1,195 @@
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-ExtraBold.ttf') format('truetype');
+  font-weight: 800; /* Typically Extra Bold is 800 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800; /* Extra Bold Italic */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-Light.ttf') format('truetype');
+  font-weight: 300; /* Light is typically 300 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-Medium.ttf') format('truetype');
+  font-weight: 500; /* Medium is typically 500 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-SemiBold.ttf') format('truetype');
+  font-weight: 600; /* SemiBold is typically 600 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-ExtraLight.ttf') format('truetype');
+  font-weight: 200; /* Extra Light is typically 200 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chivo';
+  src: url('../../src/constants/static/Chivo-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* Regular */
+.chivo-regular {
+  font-family: 'Chivo', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Bold */
+.chivo-bold {
+  font-family: 'Chivo', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Italic */
+.chivo-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Bold Italic */
+.chivo-bold-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Extra Bold */
+.chivo-extra-bold {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Extra Bold Italic */
+.chivo-extra-bold-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Light */
+.chivo-light {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Light Italic */
+.chivo-light-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Medium */
+.chivo-medium {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Medium Italic */
+.chivo-medium-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Semi Bold */
+.chivo-semi-bold {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Semi Bold Italic */
+.chivo-semi-bold-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Extra Light */
+.chivo-extra-light {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Extra Light Italic */
+.chivo-extra-light-italic {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
